@@ -6,5 +6,5 @@ def calendar (m):
 
 months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
 
-print (calender("january"))
+print (calendar("january"))
 
