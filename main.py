@@ -1,4 +1,4 @@
-def calender (m):
+def calendar (m):
     for i in range(0, 12):
         if m == months[i]:
             return i + 1
@@ -6,5 +6,5 @@ def calender (m):
 
 months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
 
-print (calender("hello"))
+print (calender("january"))
 
